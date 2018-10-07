@@ -1,0 +1,56 @@
+plate is full,1
+rub off on,2
+exposed to,14
+drain on,3
+infuse with,2
+put through,7
+keep in check,3
+reflect on,7
+talk out of,2
+stand a chance,12
+sever connection,1
+under the skin,18
+meet halfway,4
+rat race,3
+off guard,2
+make or break,4
+not cut out for,1
+turn a blind eye,1
+in a stalemate,1
+binge eating,2
+serve well,6
+lose control over,1
+blow out of proportion,1
+stay current,1
+in hindsight,1
+that being said,6
+take too far,3
+on board with,21
+fall by the wayside,1
+list of priorities,1
+as much as,10
+live up to,7
+rush into,1
+bear in mind,1
+get off the ground,2
+lead lifestyle,2
+outlet for,4
+take ownership of,1
+stretch yourself,1
+put off,2
+obsess over,3
+in futility,1
+at their disposal,6
+take on challenge,2
+take a stand,7
+pale in comparison,1
+stay up to date with,2
+start over,2
+work in progress,5
+drag on,6
+pour into,2
+In plain English,1
+boom and bust,1
+it tempting,2
+cut slack,2
+pervasive contempt,1
